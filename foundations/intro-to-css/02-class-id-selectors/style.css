@@ -1,8 +1,19 @@
-.alert {
-    background-color: lab(65.85% 22.32 8.91);
+.odd {
+    background-color: rgb(224, 155, 155);
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 } 
 
-.severe {
+.cooler {
     font-size: 24px;
+}
+
+#title {
+    color: blue;
+    font-size: 36px;
+}
+
+#name {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
 }
