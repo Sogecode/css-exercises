@@ -1,0 +1,8 @@
+.alert {
+    background-color: lab(65.85% 22.32 8.91);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+} 
+
+.severe {
+    font-size: 24px;
+}
